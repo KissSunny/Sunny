@@ -804,7 +804,7 @@ textarea,
 /* CHANNEL LIST */
 .sidebar-2K8pFh {
   width: var(--channels-width);
-  background: rgba(0, 0, 0, calc(var(--background-shading) * .3));
+  background: rgba(0, 0, 0, calc(var(--background-shading) * .0));
 }
 .platform-win .sidebar-2K8pFh {
   border-radius: 0;
