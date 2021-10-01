@@ -1900,7 +1900,7 @@ textarea,
 
 /* PRIVATE CALL */
 .wrapper-2qzCYF {
-  background: rgba(0, 0, 0, calc(var(--background-shading) * .6));
+  background: rgba(0, 0, 0, calc(var(--background-shading) * 0));
 }
 .wrapper-2qzCYF.minimum-28Z35l {
   background: rgba(0, 0, 0, calc(var(--background-shading) * .6));
@@ -4113,7 +4113,7 @@ code {
 }
 
 .peopleColumn-29fq28 {
-  background: rgba(0, 0, 0, calc(var(--background-shading) * .4));
+  background: rgba(0, 0, 0, calc(var(--background-shading) * .0));
 }
 
 .peopleListItem-2nzedh:hover, .peopleListItem-2nzedh.active-rhSpJJ {
@@ -4197,7 +4197,7 @@ code {
 }
 
 .nowPlayingColumn-2sl4cE {
-  background-color: rgba(0, 0, 0, calc(var(--background-shading) * 0.6));
+  background-color: rgba(0, 0, 0, calc(var(--background-shading) * 0));
 }
 
 .container-lRFx4q {
