@@ -338,8 +338,8 @@ textarea,
 /* HEADER BAR */
 .base-3dtUhz .container-1r6BKw {
   height: 48px;
-  background: rgba(0, 0, 0, calc(var(--background-shading) * .6));
-  box-shadow: 0 0 10px rgba(0, 0, 0, calc(var(--background-shading) * .6));
+  background: rgba(0, 0, 0, calc(var(--background-shading) * .0));
+  box-shadow: 0 0 10px rgba(0, 0, 0, calc(var(--background-shading) * .0));
   color: rgba(255, 255, 255, 0.5);
 }
 .base-3dtUhz .chatHeaderBar-4vZS1x {
